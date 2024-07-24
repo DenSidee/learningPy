@@ -1,4 +1,4 @@
-#Advent of Code 2023 - day1 
+#Advent of Code 2023 - day1.part1
 # The goal is to process the file input.txt to extract the first and last digit from each line, combining them to form a two-digit number.
 # Calculating the sum of these numbers and then printing the result. 
 
