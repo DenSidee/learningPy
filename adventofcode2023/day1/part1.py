@@ -2,8 +2,8 @@
 # The goal is to process the file input.txt to extract the first and last digit from each line, combining them to form a two-digit number.
 # Calculating the sum of these numbers and then printing the result. 
 
-with open('input.txt') as f:
-    input_list= f.read().splitlines() #reads all the lines of the input and removes the newline symbol
+with open('input.txt') as input:
+    input_list= input.read().splitlines() #reads all the lines of the input and removes the newline symbol
 
 sum = 0 #declaring the sum variable
 
